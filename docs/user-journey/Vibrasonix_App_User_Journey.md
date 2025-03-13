@@ -2,11 +2,11 @@
 
 ## Overview
 
-Vibrasonix is a sound therapy app that uses binaural beats and science-backed soundscapes to help users improve various aspects of their mental wellbeing, including sleep, focus, meditation, and stress reduction. This document outlines an enhanced first-time user journey with copy suggestions, UI elements, flow, and asset creation guidelines.
+Vibrasonix is a sound therapy app that combines binaural beats, PEMF (Pulsed Electromagnetic Field) technology, and vibroacoustic therapy through science-backed soundscapes to help users improve various aspects of their mental wellbeing, including sleep, focus, meditation, and stress reduction. This document outlines an enhanced first-time user journey with copy suggestions, UI elements, flow, and asset creation guidelines.
 
 ## App Persona & Voice
 
-**App Persona:** Scientific yet accessible, mystical but credible, empowering not patronizing
+**App Persona:** Scientific yet accessible, technology-driven but approachable, empowering not patronizing
 **Voice Characteristics:**
 - Clear, concise statements that convey authority
 - Balance between scientific credibility and spiritual/mystical elements
@@ -28,6 +28,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 
 ### 2. Welcome Hook Screen
 **Copy:** "Sound can literally change your mind."
+**Supporting Copy:** "Experience the power of vibroacoustic therapy and PEMF technology."
 **Elements:**
 - Dark background with subtle particle/wave animation
 - Person wearing headphones with visualizer effect (similar to existing image)
@@ -48,6 +49,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 
 ### 4. Value Proposition Screen
 **Copy:** "Take control of your mental state with science-backed soundscapes."
+**Supporting Copy:** "NASA-inspired PEMF technology combined with vibroacoustic therapy for whole-body transformation."
 **Elements:**
 - Clean, minimalist design
 - "Already a Vibrasonix User?" option at bottom
@@ -57,6 +59,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 
 ### 5. Drug Metaphor Screen
 **Copy:** "Imagine a **drug** that could help you **enhance focus & attention** without side effects."
+**Supporting Copy:** "The Vibrasonix-Cube delivers therapeutic vibrations directly to your body through your bed."
 **Alternative versions:**
 - "Imagine a **drug** that could help you **sleep deeply & wake refreshed**."
 - "Imagine a **drug** that could help you **reduce stress & find calm**."
@@ -78,7 +81,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 - Sound wave visualization (animated)
 
 ### 7. Science Explanation Screen
-**Copy:** "**Binaural beats** synchronize your brainwaves to specific frequencies, triggering desired mental states."
+**Copy:** "**Binaural beats** and **PEMF technology** synchronize your brainwaves to specific frequencies, triggering desired mental states."
 **Elements:**
 - Visual representation of brain synchronization
 - Simple animation showing the concept
@@ -90,12 +93,12 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 **Copy:** "What would you like to achieve?"
 **Subtitle:** "Select all that apply"
 **Options:**
-- Get better sleep
-- Improve focus
-- Reduce stress & anxiety
-- Enhance meditation
-- Sound healing
-- Spiritual exploration
+- Get better sleep - Delta wave entrainment (0.5-4 Hz) for deep restorative sleep
+- Improve focus - Alpha and Gamma frequencies (8-12 Hz, 30-50 Hz) for enhanced cognition
+- Reduce stress & anxiety - Reduce cortisol levels and increase endorphins
+- Enhance meditation - Theta frequencies (4-7 Hz) for hypnagogic states
+- Sound healing - Vibroacoustic therapy across the 30-120 Hz therapeutic range
+- Spiritual exploration - Access expanded states of consciousness
 **Elements:**
 - Selectable cards for each option
 - Visual icon for each category
@@ -108,14 +111,14 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 **Elements:**
 - Person with headphones (existing asset)
 - Subtle animation of sound waves around head
-- Supporting text: "Our soundscapes use **binaural beats**, shown in studies to be effective for your goals."
+- Supporting text: "Our soundscapes use **binaural beats** that work with your Vibrasonix-Cube to create a complete therapeutic experience."
 - Continue button
 **Assets Needed:**
 - Enhanced version of existing headphone image
 - Animated sound wave overlay
 
 ### 10. Technology Familiarity Screen
-**Copy:** "How familiar are you with binaural beats?"
+**Copy:** "How familiar are you with binaural beats and PEMF technology?"
 **Options:**
 - I'm new to this
 - I have some experience
@@ -130,7 +133,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 ### 11. Experience Customization Screen
 **Copy:** "We'll customize your experience based on:"
 **Elements:**
-- List of factors: "Your goals", "Science-backed frequencies", "Optimal listening times"
+- List of factors: "Your goals", "Science-backed frequencies", "PEMF intensity levels", "Optimal listening times"
 - Simple illustrations for each factor
 - Continue button
 **Assets Needed:**
@@ -139,7 +142,7 @@ Vibrasonix is a sound therapy app that uses binaural beats and science-backed so
 ### 12. Usage Recommendation Screen
 **Copy:** "For best results, use Vibrasonix:"
 **Elements:**
-- List: "With headphones", "In a quiet space", "For at least 15 minutes"
+- List: "With headphones", "With your Vibrasonix-Cube", "In a quiet space", "For at least 15 minutes"
 - Icons for each recommendation
 - Continue button
 **Assets Needed:**

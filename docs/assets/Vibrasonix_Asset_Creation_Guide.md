@@ -10,7 +10,7 @@ This guide provides detailed specifications for creating the visual and textual 
 
 The Vibrasonix copy should feel:
 - **Scientific yet accessible** - Based on research but easy to understand
-- **Mystical but credible** - Suggest deeper possibilities while staying grounded
+- **Technology-driven but approachable** - Highlight PEMF and vibroacoustic technology in an accessible way
 - **Empowering not patronizing** - Guide users without talking down to them
 - **Direct and personal** - Use "you" and speak directly to the user
 - **Concise and impactful** - Every word should serve a purpose
@@ -26,6 +26,9 @@ The Vibrasonix copy should feel:
 Frequently use these terms to reinforce the app's identity:
 - Soundscape
 - Binaural beats
+- PEMF technology
+- Vibrasonix-Cube
+- Vibroacoustic therapy
 - Frequency
 - Synchronize/synchronization
 - Mental state
@@ -51,6 +54,7 @@ Frequently use these terms to reinforce the app's identity:
 
 ### 2. Welcome Hook Screen
 - **Main Copy:** "Sound can literally change your mind."
+- **Supporting Copy:** "Experience the power of vibroacoustic therapy and PEMF technology."
 - **Alternative Options:**
   - "Reshape your reality through sound."
   - "The science of sound meets the art of transformation."
@@ -63,6 +67,7 @@ Frequently use these terms to reinforce the app's identity:
 
 ### 4. Value Proposition Screen
 - **Main Copy:** "Take control of your mental state with science-backed soundscapes."
+- **Supporting Copy:** "NASA-inspired PEMF technology combined with vibroacoustic therapy for whole-body transformation."
 - **Secondary:** "Already a Vibrasonix User?"
 - **Alternative Options:**
   - "Precisely engineered sounds to optimize your mental state."
@@ -70,6 +75,7 @@ Frequently use these terms to reinforce the app's identity:
 
 ### 5. Drug Metaphor Screen
 - **Main Copy:** "Imagine a **drug** that could help you **enhance focus & attention** without side effects."
+- **Supporting Copy:** "The Vibrasonix-Cube delivers therapeutic vibrations directly to your body through your bed."
 - **Variations for Different Goals:**
   - "Imagine a **drug** that could help you **sleep deeply & wake refreshed**."
   - "Imagine a **drug** that could help you **reduce stress & find calm**."
@@ -84,25 +90,25 @@ Frequently use these terms to reinforce the app's identity:
   - "The power of sound awaits."
 
 ### 7. Science Explanation Screen
-- **Main Copy:** "**Binaural beats** synchronize your brainwaves to specific frequencies, triggering desired mental states."
+- **Main Copy:** "**Binaural beats** and **PEMF technology** synchronize your brainwaves to specific frequencies, triggering desired mental states."
 - **Alternative Options:**
-  - "Your brain naturally entrains to sound frequencies, changing your state of consciousness."
-  - "Science has proven that specific sound frequencies can alter brainwave patterns."
+  - "Your brain naturally entrains to sound frequencies and electromagnetic pulses, changing your state of consciousness."
+  - "Science has proven that specific sound frequencies and pulsed electromagnetic fields can alter brainwave patterns."
 
 ### 8. Goal Selection Screen
 - **Main Copy:** "What would you like to achieve?"
 - **Subtitle:** "Select all that apply"
 - **Options:**
-  - "Get better sleep"
-  - "Improve focus"
-  - "Reduce stress & anxiety"
-  - "Enhance meditation"
-  - "Sound healing"
-  - "Spiritual exploration"
+  - "Get better sleep - Delta wave entrainment (0.5-4 Hz) for deep restorative sleep"
+  - "Improve focus - Alpha and Gamma frequencies (8-12 Hz, 30-50 Hz) for enhanced cognition"
+  - "Reduce stress & anxiety - Reduce cortisol levels and increase endorphins"
+  - "Enhance meditation - Theta frequencies (4-7 Hz) for hypnagogic states"
+  - "Sound healing - Vibroacoustic therapy across the 30-120 Hz therapeutic range"
+  - "Spiritual exploration - Access expanded states of consciousness"
 
 ### 9. Personalized Response Screen
 - **Main Copy:** "Vibrasonix can help with that."
-- **Supporting Copy:** "Our soundscapes use **binaural beats**, shown in studies to be effective for your goals."
+- **Supporting Copy:** "Our soundscapes use **binaural beats** that work with your Vibrasonix-Cube to create a complete therapeutic experience."
 - **Alternative Options:**
   - "You've come to the right place."
   - "We've got you covered."
@@ -171,12 +177,13 @@ Frequently use these terms to reinforce the app's identity:
 - **Color:** #FFFFFF with subtle glow
 - **Format:** SVG for unlimited scaling
 - **Set Includes:**
-  - Sleep icon (moon/stars)
-  - Focus icon (target/arrow)
-  - Stress reduction icon (peaceful waves)
-  - Meditation icon (lotus position)
-  - Sound healing icon (vibration waves)
-  - Spiritual icon (light/consciousness symbol)
+  - Sleep icon (moon/stars) with delta wave pattern
+  - Focus icon (target/arrow) with alpha wave pattern
+  - Stress reduction icon (peaceful waves) with calming pattern
+  - Meditation icon (lotus position) with theta wave pattern
+  - Sound healing icon (vibration waves) with vibroacoustic pattern
+  - Spiritual icon (light/consciousness symbol) with expanded awareness visual
+  - PEMF icon (electromagnetic pulse visualization)
 
 **Navigation Icons:**
 - **Dimensions:** 60x60px (@3x)
@@ -203,7 +210,7 @@ Frequently use these terms to reinforce the app's identity:
 **Brain Synchronization Animation:**
 - **Dimensions:** 600x400px (@3x)
 - **Format:** Lottie JSON or MP4
-- **Style:** Visual representation of brainwaves synchronizing
+- **Style:** Visual representation of brainwaves synchronizing with PEMF pulses
 - **Colors:** Use brand palette (#1A1A2E, #48AAAD, #FFBD00)
 - **Duration:** 3-5 seconds with seamless loop
 
@@ -213,6 +220,7 @@ Frequently use these terms to reinforce the app's identity:
 
 1. **Starting Point:** Select high-quality stock photos featuring:
    - People wearing headphones
+   - People using the Vibrasonix-Cube device on beds
    - Diverse representation (age, ethnicity, gender)
    - Calm, focused, or meditative expressions
    - Good lighting with room for effects

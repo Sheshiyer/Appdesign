@@ -21,29 +21,30 @@ The following diagrams provide visual reference for the user journey:
 
 ## Core App Concept
 
-Vibrasonix is a sound therapy application that uses binaural beats and science-backed soundscapes to help users improve various aspects of their mental wellbeing:
+Vibrasonix is a sound therapy application that combines binaural beats, PEMF (Pulsed Electromagnetic Field) technology, and vibroacoustic therapy through science-backed soundscapes to help users improve various aspects of their mental wellbeing:
 
-- **Sleep enhancement**
-- **Focus improvement**
-- **Stress & anxiety reduction**
-- **Meditation enhancement**
-- **Sound healing**
-- **Spiritual exploration**
+- **Sleep enhancement** - Delta wave entrainment (0.5-4 Hz) for deep restorative sleep
+- **Focus improvement** - Alpha and Gamma frequencies (8-12 Hz, 30-50 Hz) for enhanced cognition
+- **Stress & anxiety reduction** - Reduce cortisol levels and increase endorphins
+- **Meditation enhancement** - Theta frequencies (4-7 Hz) for hypnagogic states
+- **Sound healing** - Vibroacoustic therapy across the 30-120 Hz therapeutic range
+- **Spiritual exploration** - Access expanded states of consciousness
 
-The app positions sound as a powerful tool for mental state transformation, using the metaphor of a "drug without side effects" to create a compelling value proposition.
+The app positions sound and electromagnetic pulses as powerful tools for mental and physical state transformation, using the metaphor of a "drug without side effects" to create a compelling value proposition. The Vibrasonix-Cube device delivers therapeutic vibrations directly to the user's body through their bed.
 
 ## App Personality
 
-**Scientific yet accessible, mystical but credible, empowering not patronizing.**
+**Scientific yet accessible, technology-driven but approachable, empowering not patronizing.**
 
-The app balances scientific credibility with spiritual possibility, using direct, personal language that guides without condescension. Every visual and textual element should reinforce this personality.
+The app balances scientific credibility with cutting-edge technology, using direct, personal language that guides without condescension. Every visual and textual element should reinforce this personality.
 
 ## Key Differentiators
 
-1. **Science-Backed Approach**: All sound experiences are grounded in research about frequency effects on brainwaves
-2. **Personalized Journey**: User goals and preferences drive content recommendations
-3. **Visual-Sonic Harmony**: Visual design elements reinforce and enhance the sonic experience
-4. **Cosmic-Neural Aesthetic**: Unique visual identity merging cosmic elements with neural patterns
+1. **Science-Backed Approach**: All sound experiences and PEMF patterns are grounded in research about frequency effects on brainwaves and body
+2. **Integrated Hardware-Software Solution**: The Vibrasonix-Cube device works with the app to deliver a complete therapeutic experience
+3. **Personalized Journey**: User goals and preferences drive content recommendations
+4. **Visual-Sonic Harmony**: Visual design elements reinforce and enhance the sonic experience
+5. **Cosmic-Neural Aesthetic**: Unique visual identity merging cosmic elements with neural patterns
 
 ## Color System
 
@@ -79,25 +80,33 @@ The app balances scientific credibility with spiritual possibility, using direct
 
 ### 1. Welcome Hook
 - **Copy:** "Sound can literally change your mind."
+- **Supporting Copy:** "Experience the power of vibroacoustic therapy and PEMF technology."
 - **Visual:** Person with headphones in blue-toned environment
 - **Purpose:** Create immediate intrigue and set tone
 
-### 2. Goal Selection
+### 2. Value Proposition
+- **Copy:** "Take control of your mental state with science-backed soundscapes."
+- **Supporting Copy:** "NASA-inspired PEMF technology combined with vibroacoustic therapy for whole-body transformation."
+- **Visual:** Clean, minimalist design
+- **Purpose:** Clearly communicate the unique value of the Vibrasonix system
+
+### 3. Goal Selection
 - **Copy:** "What would you like to achieve?"
-- **Visual:** Selectable goal cards with icons
+- **Visual:** Selectable goal cards with icons and frequency information
 - **Purpose:** Personalize experience and gather user intent
 
-### 3. Personalized Response
+### 4. Personalized Response
 - **Copy:** "Vibrasonix can help with that."
+- **Supporting Copy:** "Our soundscapes use binaural beats that work with your Vibrasonix-Cube to create a complete therapeutic experience."
 - **Visual:** Person with sound wave visualization
 - **Purpose:** Confirm value alignment with user needs
 
-### 4. Solution Reveal
+### 5. Solution Reveal
 - **Copy:** "That drug is sound."
 - **Visual:** Sound wave visualization
 - **Purpose:** Create powerful association between sound and transformation
 
-### 5. Main Experience
+### 6. Main Experience
 - **Copy:** "Your personalized soundscapes"
 - **Visual:** Content organization by goals/categories
 - **Purpose:** Deliver on the app's promise with relevant content

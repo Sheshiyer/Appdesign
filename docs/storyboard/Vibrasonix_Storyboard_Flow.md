@@ -46,6 +46,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 **Initial State:**
 - Person with headphones image fills most of screen
 - Copy "Sound can literally change your mind" prominently displayed
+- Supporting copy "Experience the power of vibroacoustic therapy and PEMF technology"
 - Continue button at bottom with subtle pulsing effect
 
 **User Interactions:**
@@ -91,6 +92,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 **Initial State:**
 - Minimalist design with subtle background pattern
 - Copy "Take control of your mental state with science-backed soundscapes"
+- Supporting copy "NASA-inspired PEMF technology combined with vibroacoustic therapy for whole-body transformation"
 - Continue button at bottom
 - "Already a Vibrasonix User?" link at bottom
 
@@ -111,6 +113,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 **Initial State:**
 - Dark background
 - Copy "Imagine a drug that could help you enhance focus & attention"
+- Supporting copy "The Vibrasonix-Cube delivers therapeutic vibrations directly to your body through your bed"
 - Key words "drug" and "enhance focus & attention" highlighted in brand colors
 - Skip option in corner (subtle, not prominent)
 
@@ -148,8 +151,8 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 ### 7. Science Explanation Screen
 
 **Initial State:**
-- Copy "Binaural beats synchronize your brainwaves to specific frequencies"
-- Visual representation of brain synchronization
+- Copy "Binaural beats and PEMF technology synchronize your brainwaves to specific frequencies"
+- Visual representation of brain synchronization with PEMF pulses
 - Simple animation showing the concept
 - Continue button at bottom
 
@@ -171,12 +174,12 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 - Header "What would you like to achieve?"
 - Subtitle "Select all that apply"
 - 6 selectable cards with icons and text:
-  - Get better sleep
-  - Improve focus
-  - Reduce stress & anxiety
-  - Enhance meditation
-  - Sound healing
-  - Spiritual exploration
+  - Get better sleep - Delta wave entrainment (0.5-4 Hz) for deep restorative sleep
+  - Improve focus - Alpha and Gamma frequencies (8-12 Hz, 30-50 Hz) for enhanced cognition
+  - Reduce stress & anxiety - Reduce cortisol levels and increase endorphins
+  - Enhance meditation - Theta frequencies (4-7 Hz) for hypnagogic states
+  - Sound healing - Vibroacoustic therapy across the 30-120 Hz therapeutic range
+  - Spiritual exploration - Access expanded states of consciousness
 - Continue button (disabled initially)
 
 **User Interactions:**
@@ -202,7 +205,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 
 **Initial State:**
 - Copy "Vibrasonix can help with that"
-- Supporting text about binaural beats
+- Supporting text "Our soundscapes use binaural beats that work with your Vibrasonix-Cube to create a complete therapeutic experience"
 - Image of person with headphones
 - Sound wave animation around head
 - Continue button at bottom
@@ -227,7 +230,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 ### 10. Technology Familiarity Screen
 
 **Initial State:**
-- Copy "How familiar are you with binaural beats?"
+- Copy "How familiar are you with binaural beats and PEMF technology?"
 - 3 selection options:
   - "I'm new to this"
   - "I have some experience"
@@ -256,6 +259,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 - List of factors with icons:
   - "Your goals" (shows icons of selected goals)
   - "Science-backed frequencies" (frequency icon)
+  - "PEMF intensity levels" (electromagnetic pulse icon)
   - "Optimal listening times" (clock icon)
 - Continue button at bottom
 
@@ -280,6 +284,7 @@ Usage Recommendation → Account Creation → Subscription → Main Experience
 - Copy "For best results, use Vibrasonix:"
 - List with icons:
   - "With headphones" (headphone icon)
+  - "With your Vibrasonix-Cube" (device icon)
   - "In a quiet space" (silence icon)
   - "For at least 15 minutes" (timer icon)
 - Continue button at bottom

@@ -1,45 +1,26 @@
 Vibrasonix App Copy - Screens 1-5
-Screen 1: Welcome Hook
-Main Copy: "Sound can literally change your mind."
 
-Supporting Copy: "Experience the power of vibroacoustic therapy and PEMF technology."
+Screen 1: The First Wave
+Main Copy: "The First Wave"
+Supporting Copy: "In the beginning, there was a single wave—a gentle ripple in the infinite void. This primal vibration ignited creation itself, setting in motion the cosmic symphony that would become our universe."
+Button: "Begin"
 
-Button: "Continue"
+Screen 2: Waves of Creation
+Main Copy: "Waves of Creation"
+Supporting Copy: "As eons passed, countless waves converged. They collided, resonated, and harmonized—weaving the intricate tapestry of existence. These vibrations orchestrate the dance of atoms that form everything you see, touch, and feel."
+Button: "Next"
 
-Screen 2: Value Proposition
-Main Copy: "Take control of your mental state with science-backed soundscapes."
+Screen 3: The Art of Cymatics
+Main Copy: "The Art of Cymatics"
+Supporting Copy: "Witness the invisible made visible. Through cymatics, sound's hidden architecture emerges—transforming formless particles into mesmerizing geometric patterns. These sacred blueprints reveal nature's secret language, showing us that all creation responds to vibration."
+Button: "Discover"
 
-Supporting Copy: "NASA-inspired PEMF technology combined with vibroacoustic therapy for whole-body transformation."
+Screen 4: Music and the Body
+Main Copy: "Music and the Body"
+Supporting Copy: "Your body is an instrument of extraordinary sensitivity. Just as cosmic waves shaped the universe, sound waves flow through your cellular matrix—recalibrating your nervous system, synchronizing your heartbeat, and awakening dormant healing potential with every resonant frequency."
+Button: "Feel the Music"
 
-Button: "Continue"
-Secondary Link: "Already a Vibrasonix User?"
-
-Screen 3: Transformation Metaphor
-Main Copy: "Imagine a drug that could help you enhance focus & attention without side effects."
-
-Supporting Copy: "The Vibrasonix-Cube delivers therapeutic vibrations directly to your body through your bed."
-
-Button: "Continue"
-Secondary Option: "Skip"
-
-Screen 4: Personalized Response
-Main Copy: "Vibrasonix can help with that."
-
-Supporting Copy: "Our soundscapes use binaural beats that work with your Vibrasonix-Cube to create a complete therapeutic experience."
-
-Button: "Continue"
-
-Screen 5: Goal Selection
-Main Copy: "What would you like to achieve?"
-
-Subtitle: "Select all that apply"
-
-Options:
-
-Get better sleep - Delta wave entrainment (0.5-4 Hz) for deep restorative sleep
-Improve focus - Alpha and Gamma frequencies (8-12 Hz, 30-50 Hz) for enhanced cognition
-Reduce stress & anxiety - Reduce cortisol levels and increase endorphins
-Enhance meditation - Theta frequencies (4-7 Hz) for hypnagogic states
-Sound healing - Vibroacoustic therapy across the 30-120 Hz therapeutic range
-Spiritual exploration - Access expanded states of consciousness
-Button: "Continue"
+Screen 5: Tune into Your Universe
+Main Copy: "Tune into Your Universe"
+Supporting Copy: "Enter a realm where sound sculpts reality itself. Discover how specific frequencies can transform your mental state, physical wellbeing, and energetic field. Your exploration of vibrational medicine begins now—a journey that will fundamentally change how you experience existence."
+Button: "Start Journey"

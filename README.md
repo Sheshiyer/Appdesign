@@ -32,6 +32,37 @@ Vibrasonix is a sound therapy application that combines binaural beats, PEMF tec
 
 The app works in conjunction with the Vibrasonix-Cube device, which delivers therapeutic vibrations directly to the user's body through their bed.
 
+## Audio Journeys
+
+Vibrasonix offers a transformative audio experience through carefully curated journeys that combine sensory entrainment with vibroacoustic therapy. When coupled with Vibrasonix instruments, these journeys create a deep immersive experience through tactile sensory synchronization.
+
+### Featured Albums
+
+- **Wellness** - Promotes overall well-being through calming and rejuvenating experiences. Features curated journeys for stress relief, anxiety reduction, and mood enhancement.
+
+- **Planet Tones** - Inspired by the symphony of the planets, these journeys align mind and body with universal rhythms. Uses planetary frequencies to induce meditation and stimulate creativity.
+
+- **Sleep** - Designed for achieving deep, restful sleep through binaural beats and soothing soundscapes that reduce stress and promote relaxation.
+
+- **Minerals** - Utilizes sonified frequencies of minerals (quartz, amethyst, gold) to stimulate natural healing, balance chakras, and enhance well-being.
+
+- **Organs** - Helps attune organs to their natural harmony through specific frequency patterns that promote detoxification and improve overall health.
+
+- **Chakras** - Balances and aligns the seven chakras using targeted sound frequencies, promoting physical, emotional, and spiritual well-being.
+
+- **Bioresonance** - Employs bio-resonant frequencies to stimulate the body's energy fields, supporting natural healing processes and detoxification.
+
+- **Audio Genesis** - A collection of immersive soundscapes designed to transport listeners to new experiential dimensions.
+
+### Technology
+
+The music composition is crafted with precision to create sensory stimulation through:
+- Binaural entrainment for direct brain and nervous system influence
+- Isochronic tones for enhanced neural synchronization
+- Bio-resonant frequencies for holistic healing
+- Planetary frequency harmonics for cosmic alignment
+- Mineral sonification for energetic balancing
+
 ## Documentation
 
 ### User Journey
